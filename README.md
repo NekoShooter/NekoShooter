@@ -3,7 +3,7 @@
 
 ## Acerca de mi:
 
-Programo en **C, C++** y **Python** mayoritariamente, me enfoco en algoritmos complejos y en sistemas de bajo nivel *(proximamente desarrollador web e intelgencia artificial)*.
+Programo mayoritariamente en **C, C++** y **Python**, me enfoco en algoritmos complejos y en sistemas de bajo nivel *(proximamente desarrollador web e intelgencia artificial)*.
 
 Independientemente a la programacion tambien soy animador, dibujante y diseñador
 
