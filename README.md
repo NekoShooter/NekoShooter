@@ -1,7 +1,5 @@
 #                    ⭐️ Te doy la bienvenida a mi GitHub ⭐️
-
                                                     [<a href="https://www.youtube.com/channel/UCHJiiKBhmjGY8jkZYBZ8pHA?view_as=subscriber"><img src="https://media.giphy.com/media/L2Yd6Z1cYAnPl5sPae/giphy.gif" alt="blogpost-html" border="0"></a>](https://media.giphy.com/media/L2Yd6Z1cYAnPl5sPae/giphy.gif)  
-                                                    
 ## Acerca de mi:
 Soy programador de bajo nivel, Desarrollo mayormente en C y C++.
 Independientemente a la programaci&oacute;n tambien soy animador, dibujante y diseñador
