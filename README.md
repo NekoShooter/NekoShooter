@@ -8,8 +8,8 @@ Soy programador de bajo nivel, Desarrollo mayormente en C y C++.
 Independientemente a la programaci&oacute;n tambien soy animador, dibujante y diseñador
 
 <h3 align="center">Lenguajes<h3/> <div align="center">
-<a href="https://github.com/NekoShooter?tab=repositories&q=&type=&language="><img src="https://i.ibb.co/1Q10GFX/C.png" alt="C" width='50'></a>  
-<a href="https://github.com/NekoShooter?tab=repositories&q=&type=&language="><img src="https://i.ibb.co/hd3yP7D/C.png" alt="C++" width='50'></a>  
+<a href="https://github.com/NekoShooter?tab=repositories&q=&type=&language=c"><img src="https://i.ibb.co/1Q10GFX/C.png" alt="C" width='50'></a>  
+<a href="https://github.com/NekoShooter?tab=repositories&q=&type=&language=c%2B%2B"><img src="https://i.ibb.co/hd3yP7D/C.png" alt="C++" width='50'></a>  
 <a href="https://github.com/NekoShooter?tab=repositories&q=&type=&language="><img src="https://i.ibb.co/Zd4fwqL/Python.png" alt="Python" width='50'></a>
 <div/>
 <br /><br />
