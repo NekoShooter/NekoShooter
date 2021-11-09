@@ -17,8 +17,8 @@ Independientemente a la programaci&oacute;n tambien soy animador, dibujante y di
 <a href="https://twitter.com/Marco_Animacion"><img src="https://i.ibb.co/sQT8BQ9/twitter.png" alt="twitter" width='35'></a>             
 <a href="https://www.instagram.com/marcoantonio_m_a/"><img src="https://i.ibb.co/pdvSkpf/insta.png" alt="instagram" width='35'></a>             
 <a href="https://www.youtube.com/channel/UCHJiiKBhmjGY8jkZYBZ8pHA?view_as=subscriber"><img src="https://i.ibb.co/VTSwQkK/youtu.png" alt="youtube" width='35'></a>             
-<a href="https://www.facebook.com/MarcoAnGM"><img src="https://i.ibb.co/TcHr6Dg/face.png" alt="facebook" width='35'></a>            
-<a href="https://www.pinterest.com/marco_antonio_animacion"><img src="https://i.ibb.co/m0WNNhm/pinteres.pngg" alt="pinterest" width='35'></a>
+<a href="https://www.facebook.com/NekoShooter"><img src="https://i.ibb.co/TcHr6Dg/face.png" alt="facebook" width='35'></a>            
+<a href="https://www.pinterest.com/Neko_Shooter"><img src="https://i.ibb.co/m0WNNhm/pinteres.pngg" alt="pinterest" width='35'></a>
 <div/>
 <!--
 **NekoShooter/NekoShooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
